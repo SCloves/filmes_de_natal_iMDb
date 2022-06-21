@@ -11,7 +11,7 @@ idna==2.6
 ipython==5.5.0
 ipython-genutils==0.2.0
 matplotlib==2.1.1
-numpy==1.13.3
+numpy==1.22.0
 pandas==0.21.1
 pathlib2==2.3.0
 pexpect==4.3.1
